@@ -1,6 +1,4 @@
-# virtual env
 venv/*
 
-# editor/ide confs
 .idea/*
 .vscode/*
